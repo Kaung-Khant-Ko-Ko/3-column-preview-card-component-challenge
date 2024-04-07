@@ -12,8 +12,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Screenshot
 
-![result](https://github.com/Kaung-Khant-Ko-Ko/3-column-preview-card-component-challenge/assets/59255928/f50a4bc8-5538-42ef-b86b-bdf4e48bfcf8)
-
+![result](https://github.com/Kaung-Khant-Ko-Ko/3-column-preview-card-component-challenge/assets/59255928/58990e64-b3da-423b-9755-69b57a8f06d4)
 
 ### Links
 
